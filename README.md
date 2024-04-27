@@ -25,4 +25,4 @@ N/A
 
 ## Link
 
-file:///Users/ashleywright/bootcamp/awright-challenge-01/index.html 
+[Horiseon webpage](https://ajwmp93.github.io/awright-challenge-01/)

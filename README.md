@@ -13,9 +13,10 @@ I began this project to clean up some of the code that was already written in th
 ## Usage
 
 Read through the webpage to see what services are offered. On the top right of the page it lists three sections, Search Engine Optimization, Online Reputation Management, and Social Media Marketing. These are clickable links that will take you to the subheading lower on the webpage that corresponds to that topic, giving more information about that particular topic.
+
 ```md
-![alt text](assets/images/Screenshot%201.jpg)
-![alt text](assets/images/Screen%20shot%202.jpg)
+![alt text](assets/images/screenshot%201.png)
+![alt text](assets/images/screenshot%202.png)
 ```
 
 ## License

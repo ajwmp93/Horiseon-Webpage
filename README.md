@@ -6,9 +6,9 @@ I began this project to clean up some of the code that was already written in th
 
 ## Table of Contents
 
-- Description [##Description]
-- Usage [##Usage]
-- License[##License]
+- Description [## Description]
+- Usage [## Usage]
+- License[## License]
 
 ## Usage
 

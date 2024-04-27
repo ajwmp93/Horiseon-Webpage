@@ -25,4 +25,4 @@ N/A
 
 ## Link
 
-[Horiseon website](file:///Users/ashleywright/bootcamp/awright-challenge-01/index.html)
+file:///Users/ashleywright/bootcamp/awright-challenge-01/index.html 
